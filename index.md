@@ -26,9 +26,9 @@ Tecnológico de Estudios Superiores de Ecatepec (2013 – 2016)
 
 - Metodologías: Scrum, test-driven development
 
-- Diseño, Desarrollo, Administración y Tecnologías Web:Amazon Web Services, Angular, Bootstrap, Codeigniter, CPanel, Django, ExpressJS, Flask, Google Maps, HTML5, JavaScript, Laravel, MVC Framework, ReactJS, RESTful Web Services, Ruby on Rails
+- Tecnologías Web: Amazon Web Services, Angular, ASP.Net, Bootstrap, Codeigniter, CPanel, Django, ExpressJS, Flask, Google Maps, HTML5, JavaScript, Laravel, MVC Framework, ReactJS, RESTful Web Services, Ruby on Rails
 
-- Desarrollo de software: Android, Cordova, Ionic , ASP.Net,  C#, Excel
+- Desarrollo mobil: Android, Cordova, Ionic
 
 - AI: OpenCV, Caffe, Tensorflow, scikit-learn
 
