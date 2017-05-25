@@ -2,7 +2,7 @@
 
 ## Perfil Profesional  
 
-Soy un consultor experimentado con una historia de projectos en la industria de software de computadora. Profesional en Aprendizaje Automático, Visión por Computador, Procesamiento de Datos, Exploración de Datos, Desarrollo Web y Móvil. Reconocido por mi disposición y habilidad para dar respuesta a situaciones mediante la identificación del problema, diagnóstico, formulación de soluciones y evaluación. Bien conocido por mi disposición y habilidad para colaborar de manera coordinada en tareas realizadas conjuntamente por un equipo de personas para conquistar un objetivo propuesto. Me caracteriza mi capacidad de organización del trabajo y autonomía. Mi proyecto más destacable fue la investigación científica dentro de la NASA.
+Soy un consultor experimentado con una historia de proyectos en la industria de software de computadora. Profesional en Aprendizaje Automático, Visión por Computador, Procesamiento de Datos, Exploración de Datos, Desarrollo Web y Móvil. Reconocido por mi disposición y habilidad para dar respuesta a situaciones mediante la identificación del problema, diagnóstico, formulación de soluciones y evaluación. Bien conocido por mi disposición y habilidad para colaborar de manera coordinada en tareas realizadas conjuntamente por un equipo de personas para conquistar un objetivo propuesto. Me caracteriza mi capacidad de organización del trabajo y autonomía. Mi proyecto más destacable fue la investigación científica dentro de la NASA.
 
 ## Formación Académica
 
