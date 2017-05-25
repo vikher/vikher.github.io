@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Victor Manuel Hernández Sánchez
 
-You can use the [editor on GitHub](https://github.com/vikher/vikher.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Perfil Profesional  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Soy un consultor experimentado con una historia de projectos en la industria de software de computadora. Profesional en Aprendizaje Automático, Visión por Computador, Procesamiento de Datos, Exploración de Datos, Desarrollo Web y Móvil. Reconocido por mi disposición y habilidad para dar respuesta a situaciones mediante la identificación del problema, diagnóstico, formulación de soluciones y evaluación. Bien conocido por mi disposición y habilidad para colaborar de manera coordinada en tareas realizadas conjuntamente por un equipo de personas para conquistar un objetivo propuesto. Me caracteriza mi capacidad de organización del trabajo y autonomía. Mi proyecto más destacable fue la investigación científica dentro de la NASA.
 
-### Markdown
+## Formación Académica
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tecnológico de Estudios Superiores de Ecatepec (2013 – 2016)
+  Ingeniería en Sistemas Computacionales (Cedula en tramite)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Cursos, Especialidades o Diplomados 
 
-- Bulleted
-- List
+-Big Data Processing, Data Exploration with Scala and Apache Spark, IPN 
+-Cisco Certified Network Associate (CCNA) 
+-Microsoft Office Specialist
 
-1. Numbered
-2. List
+## Conocimiento de Software:
 
-**Bold** and _Italic_ and `Code` text
+- Sistemas Operativos: Unix, Linux, Windows, Macintosh OS X
 
-[Link](url) and ![Image](src)
-```
+- Lenguajes de Programación: Arduino, C++, C#, Go , Java, Javascript, MATLAB, Python, R, Ruby ,Scala
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Bases de Datos: MongoDB, MySQL, Microsoft SQL Server, SQLite
 
-### Jekyll Themes
+- Metodologías: Scrum, test-driven development
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vikher/vikher.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Diseño, Desarrollo, Administración y Tecnologías Web:Amazon Web Services, Angular, Bootstrap, Codeigniter, CPanel, Django, ExpressJS, Flask, Google Maps, HTML5, JavaScript, Laravel, MVC Framework, ReactJS, RESTful Web Services, Ruby on Rails
 
-### Support or Contact
+- Desarrollo de software: Android, Cordova, Ionic , ASP.Net,  C#, Excel
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- AI: OpenCV, Caffe, Tensorflow, scikit-learn
+
+## Contacto
+
+Puedes encontrarme en (https://www.linkedin.com/in/victor-hernandez-1ba65a67/)
