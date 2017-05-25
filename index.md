@@ -12,9 +12,9 @@ Tecnológico de Estudios Superiores de Ecatepec (2013 – 2016)
 
 ## Cursos, Especialidades o Diplomados 
 
--Big Data Processing, Data Exploration with Scala and Apache Spark, IPN 
--Cisco Certified Network Associate (CCNA) 
--Microsoft Office Specialist
+- Big Data Processing, Data Exploration with Scala and Apache Spark, IPN 
+- Cisco Certified Network Associate (CCNA) 
+- Microsoft Office Specialist
 
 ## Conocimiento de Software:
 
