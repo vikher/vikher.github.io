@@ -34,4 +34,4 @@ Tecnológico de Estudios Superiores de Ecatepec (2013 – 2016)
 
 ## Contacto
 
-Puedes encontrarme en (https://www.linkedin.com/in/victor-hernandez-1ba65a67/)
+Puedes encontrarme en [linkedin](https://www.linkedin.com/in/victor-hernandez-1ba65a67/)
